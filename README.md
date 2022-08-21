@@ -6,7 +6,7 @@
 
 😼 **BE: 배상현 (팀장)**
 
-📽 **[UCC 및 프로젝트 설명 유튜브 링크](https://youtu.be/ngQkkMlmzA8)** (아래 사진을 클릭해서 볼 수도 있습니다.)
+📽 **[UCC 및 프로젝트 설명 유튜브 링크](https://youtu.be/ngQkkMlmzA8)**
 
 ![logo](README.assets/logo-16608005227942.png)
 
